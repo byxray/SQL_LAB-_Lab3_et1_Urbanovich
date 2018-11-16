@@ -18,4 +18,6 @@ __result with error listing__
 ![result with error](https://github.com/byxray/SQL_LAB-_Lab3_et1_Urbanovich/blob/master/result_with_error.jpg)
 
 
+
       
+log file [click here](https://github.com/byxray/SQL_LAB-_Lab3_et1_Urbanovich/blob/master/WIN-5OUD5U06135.log).
